@@ -1,7 +1,8 @@
 class TestFile {
   int i;
+
   public TestFile() {
-    this.i = 1;
+    this.i = 2;
   }
 
   public void show() {
